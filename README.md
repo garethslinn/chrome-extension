@@ -57,7 +57,7 @@ my-chrome-extension/
     - Click "Select Folder" (or "Open" depending on your OS).
 
 5. **Verify the Extension:**
-    - You should see your extension listed on the Extensions page with the name "My First Chrome Extension."
+    - You should see your extension listed on the Extensions page with the name "Chrome Extension."
 
 ## Usage
 
