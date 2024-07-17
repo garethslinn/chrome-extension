@@ -16,7 +16,7 @@ This project is a basic demonstration of a Chrome extension. It showcases how I 
 ## File Structure
 
 ```
-my-chrome-extension/
+chrome-extension/
 ├── manifest.json
 ├── popup.html
 ├── popup.js
@@ -39,7 +39,7 @@ my-chrome-extension/
 1. **Download or Clone this Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/my-chrome-extension.git
+   git clone https://github.com/garethslinn/chrome-extension.git
    ```
 
    Or simply download the ZIP file and extract it.
@@ -53,7 +53,7 @@ my-chrome-extension/
 
 4. **Load the Extension:**
     - Click the "Load unpacked" button.
-    - In the file dialog, navigate to the `my-chrome-extension` directory and select it.
+    - In the file dialog, navigate to the `chrome-extension` directory and select it.
     - Click "Select Folder" (or "Open" depending on your OS).
 
 5. **Verify the Extension:**
