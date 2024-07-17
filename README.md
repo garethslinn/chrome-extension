@@ -1,5 +1,7 @@
 # Example Chrome Extension
 
+<img src="https://github.com/garethslinn/chrome-extensio/blob/main/chrome_ext.png" alt="Guardly Logo" width="300px" />
+
 ## Introduction
 
 This project is a basic demonstration of a Chrome extension. It showcases how I create, structure, and test a simple Chrome extension that interacts with the user via a popup interface. The extension includes basic HTML, CSS, and JavaScript files, along with a manifest file that configures the extension's settings.
@@ -81,4 +83,5 @@ my-chrome-extension/
 ## Conclusion
 
 This project is a quick demonstration of a basic Chrome extension. It includes fundamental components such as a manifest file, a popup interface, a background script, and basic styling. Use this as a starting point to build more complex and feature-rich Chrome extensions.
+# chrome-extension
 # chrome-extension
