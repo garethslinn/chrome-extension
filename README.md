@@ -1,6 +1,6 @@
 # Example Chrome Extension
 
-<img src="https://github.com/garethslinn/chrome-extensio/blob/main/chrome_ext.png" alt="Guardly Logo" width="300px" />
+<img src="https://github.com/garethslinn/chrome-extension/chrome_ext.png" alt="Guardly Logo" width="300px" />
 
 ## Introduction
 
